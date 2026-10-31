@@ -1,4 +1,4 @@
-#DirectLauncher - Instalador Oficial
+# DirectLauncher - Instalador Oficial
 
 Repositório dedicado ao instalador profissional do **DirectLauncher** (desenvolvido em Inno Setup), projetado para oferecer uma experiência de instalação moderna, limpa e automatizada para o Minecraft Java Edition.
 
